@@ -1,0 +1,1 @@
+{"kathal":"1","valkai":"2","iyarkai":"3","natpu":"4","pothu":"5"}
